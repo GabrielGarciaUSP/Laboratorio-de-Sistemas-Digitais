@@ -1,0 +1,21 @@
+entity hex27seg is
+	port
+		(
+			hexa : in bit_vector (3 downto 0);
+			segments : out bit_vector (6 downto 0);
+		);
+end hex27seg;
+
+architecture logica of hex27seg is
+
+begin
+	
+	segments(0) <= :
+	segments(1) <= :
+	segments(2) <= :
+	segments(3) <= :	
+	segments(4) <= :
+	segments(5) <= :
+	segments(6) <= :
+	
+end;

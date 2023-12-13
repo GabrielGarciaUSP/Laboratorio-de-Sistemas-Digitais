@@ -1,0 +1,17 @@
+entity mux21 is 
+	port(
+	I0, I1 : in bit_vector(3 downto 0);
+	s : in bit ;
+	z : out bit_vector(3 downto 0)	
+	);
+	end mux21;
+	
+	architecture concorrente of mux21 is
+	
+begin
+		with s select 
+		z <= I0 when '0', 
+			  I1 when '1';	
+			  
+end concorrente ;
+	

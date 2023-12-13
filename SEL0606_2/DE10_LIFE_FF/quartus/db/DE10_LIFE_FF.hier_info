@@ -1,0 +1,52 @@
+|DE10_LIFE_FF
+sw[0] => ourtff:ff2.t
+sw[1] => ourdff:ff1.d
+sw[2] => ourjkff:ff0.k
+sw[3] => ourjkff:ff0.j
+sw[4] => ~NO_FANOUT~
+sw[5] => ~NO_FANOUT~
+sw[6] => ~NO_FANOUT~
+sw[7] => ~NO_FANOUT~
+sw[8] => ~NO_FANOUT~
+sw[9] => ~NO_FANOUT~
+key[0] => ourjkff:ff0.clk
+key[0] => ourdff:ff1.clk
+key[0] => ourtff:ff2.clk
+key[1] => ourjkff:ff0.clr
+key[1] => ourdff:ff1.clr
+key[1] => ourtff:ff2.clr
+LEDR[0] <= ourtff:ff2.q
+LEDR[1] <= ourdff:ff1.q
+LEDR[2] <= ourjkff:ff0.q
+LEDR[3] <= <GND>
+LEDR[4] <= <GND>
+LEDR[5] <= <GND>
+LEDR[6] <= <GND>
+LEDR[7] <= <GND>
+LEDR[8] <= <GND>
+LEDR[9] <= <GND>
+
+
+|DE10_LIFE_FF|ourjkff:ff0
+clk => q~reg0.CLK
+clr => q~reg0.ACLR
+j => q.IN1
+k => q.IN1
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DE10_LIFE_FF|ourdff:ff1
+clk => q~reg0.CLK
+clr => q~reg0.ACLR
+d => q~reg0.DATAIN
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|DE10_LIFE_FF|ourtff:ff2
+clk => q~reg0.CLK
+clr => q~reg0.ACLR
+t => q.IN1
+t => q.IN1
+q <= q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

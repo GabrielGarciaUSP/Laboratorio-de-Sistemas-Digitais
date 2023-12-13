@@ -1,0 +1,44 @@
+|DE10_LITE_mux
+sw[0] => mux21:mux0.I0[0]
+sw[1] => mux21:mux0.I0[1]
+sw[2] => mux21:mux0.I0[2]
+sw[3] => mux21:mux0.I0[3]
+sw[4] => mux21:mux0.I1[0]
+sw[5] => mux21:mux0.I1[1]
+sw[6] => mux21:mux0.I1[2]
+sw[7] => mux21:mux0.I1[3]
+sw[8] => ~NO_FANOUT~
+sw[9] => ~NO_FANOUT~
+KEY[0] => mux21:mux0.s
+KEY[1] => ~NO_FANOUT~
+LEDR[0] <= mux21:mux0.z[0]
+LEDR[1] <= mux21:mux0.z[1]
+LEDR[2] <= mux21:mux0.z[2]
+LEDR[3] <= mux21:mux0.z[3]
+LEDR[4] <= <GND>
+LEDR[5] <= <GND>
+LEDR[6] <= <GND>
+LEDR[7] <= <GND>
+LEDR[8] <= <GND>
+LEDR[9] <= <GND>
+
+
+|DE10_LITE_mux|mux21:mux0
+I0[0] => z.DATAB
+I0[1] => z.DATAB
+I0[2] => z.DATAB
+I0[3] => z.DATAB
+I1[0] => z.DATAA
+I1[1] => z.DATAA
+I1[2] => z.DATAA
+I1[3] => z.DATAA
+s => z.OUTPUTSELECT
+s => z.OUTPUTSELECT
+s => z.OUTPUTSELECT
+s => z.OUTPUTSELECT
+z[0] <= z.DB_MAX_OUTPUT_PORT_TYPE
+z[1] <= z.DB_MAX_OUTPUT_PORT_TYPE
+z[2] <= z.DB_MAX_OUTPUT_PORT_TYPE
+z[3] <= z.DB_MAX_OUTPUT_PORT_TYPE
+
+
