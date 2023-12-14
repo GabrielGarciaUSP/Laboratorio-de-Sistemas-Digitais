@@ -74,8 +74,8 @@ dados N = 4, utilizando a linguagem de descrição de hardware VHDL.
 
 ### Imagens após funcionamento do Kit
 
-![Exemplo](./Imagens/LogAlu.PNG)
-![Exemplo](./Imagens/RTLAlu.PNG)
+![Exemplo](./imagens/LogAlu.PNG)
+![Exemplo](./imagens/RTLAlu.PNG)
 
 
 

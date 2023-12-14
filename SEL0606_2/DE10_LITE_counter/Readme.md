@@ -39,7 +39,7 @@ entradas clk e clrn do contador, e as saídas q aos LEDR.
 
 ### Imagens após funcionamento do Kit
 
-![](./Imagens/LogCounter.PNG)
-![](./Imagens/CounterRTL.PNG)
+![](./imagens/LogCounter.PNG)
+![](./imagens/CounterRTL.PNG)
 
 
