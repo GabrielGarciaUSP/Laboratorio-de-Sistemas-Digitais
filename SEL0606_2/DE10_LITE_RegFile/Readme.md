@@ -49,9 +49,9 @@ utilizado como todos os registradores independentes na organização da arquitet
 
 • Aplicativo Quartus 
 
-• Exemplo de Processador RISC-V multiciclo ![](./imagens/Exemplos.png)
+• Exemplo de Processador RISC-V multiciclo ![](./imagens/Exemplos.PNG)
 
-• Configuração de um banco de 8 registradores ![](./imagens/Exemplos2.png)
+• Configuração de um banco de 8 registradores ![](./imagens/Exemplos2.PNG)
 
 ### Resultados
 
@@ -74,6 +74,6 @@ RD1 e RD2, após a transição do sinal de CLK
 
 ### Imagens após o funcionamento do Kit
 
-![Exemplo](./imagens/LogRegFile.png)
-![Exemplo](./imagens/RTLRegFile.png)
+![Exemplo](./imagens/LogRegFile.PNG)
+![Exemplo](./imagens/RTLRegFile.PNG)
 
