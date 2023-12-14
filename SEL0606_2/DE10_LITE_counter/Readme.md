@@ -29,7 +29,7 @@ barramento de dados de tamanho parametrizável utilizando a linguagem VHDL.
 
 • Aplicativo Quartus 
 
-• Exemplos de Somador: sendo (a) o assíncrono e (b) o síncrono  ![](./imagens/Exemplos.png)
+• Exemplos de Somador: sendo (a) o assíncrono e (b) o síncrono  ![](./imagens/Exemplos.PNG)
 
 ### Resultados
 
@@ -39,7 +39,7 @@ entradas clk e clrn do contador, e as saídas q aos LEDR.
 
 ### Imagens após funcionamento do Kit
 
-![](./Imagens/LogCounter.png)
-![](./Imagens/CounterRTL.png)
+![](./Imagens/LogCounter.PNG)
+![](./Imagens/CounterRTL.PNG)
 
 

@@ -47,7 +47,7 @@ organização da arquitetura.
 
 • Aplicativo Quartus 
 
-• Exemplo de Processador RISC-V ![](./Imagens/Exemplos.png)
+• Exemplo de Processador RISC-V ![](./Imagens/Exemplos.PNG)
 
 ### Resultados
 
@@ -55,6 +55,6 @@ A prática foi um sucesso, conseguimos implementar um registrador genérico de N
 
 ### Imagens após o funcionamento do Kit
 
-![Exemplo](./Imagens/LogReg.png)
-![Exemplo](./Imagens/RegRTL.png)
+![Exemplo](./Imagens/LogReg.PNG)
+![Exemplo](./Imagens/RegRTL.PNG)
 

@@ -38,9 +38,9 @@ dados N = 4, utilizando a linguagem de descrição de hardware VHDL.
 
 • Aplicativo Quartus 
 
-• Tabela de operações da Ula ![Exemplo](./imagens/FuncAlu.png)
+• Tabela de operações da Ula ![Exemplo](./imagens/FuncAlu.PNG)
 
-• Tabela Resultado da operação SLT para N = 4 ![Exemplo](./imagens/ResAlu.png)
+• Tabela Resultado da operação SLT para N = 4 ![Exemplo](./imagens/ResAlu.PNG)
 
 ### Conceitos utilizados
 
@@ -74,8 +74,8 @@ dados N = 4, utilizando a linguagem de descrição de hardware VHDL.
 
 ### Imagens após funcionamento do Kit
 
-![Exemplo](./Imagens/LogAlu.png)
-![Exemplo](./Imagens/RTLAlu.png)
+![Exemplo](./Imagens/LogAlu.PNG)
+![Exemplo](./Imagens/RTLAlu.PNG)
 
 
 

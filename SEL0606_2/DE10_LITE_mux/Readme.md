@@ -27,7 +27,7 @@ barramento de dados de 4 bits, utilizando o comando concorrente WHEN-ELSE.
 
 • Aplicativo Quartus 
 
-• Exemplo de Mux:![Exemplo](./Imagens/Exemplos.png)  
+• Exemplo de Mux:![Exemplo](./imagens/Exemplos.PNG)  
 
 ### Resultados
 
@@ -64,6 +64,6 @@ Equação booleana de um mux 2 pra 1:
 
 ### Imagens do circuito após funcionamento
 
-![Exemplo](./Imagens/LogMux.png)
+![Exemplo](./imagens/LogMux.PNG)
 
-![Exemplo](./Imagens/MuxRTL.png)
+![Exemplo](./imagens/MuxRTL.PNG)

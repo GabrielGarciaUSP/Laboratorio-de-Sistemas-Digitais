@@ -25,9 +25,9 @@ DE10-Lite (MAX10 10M50DAF484C7G), utilizando comandos concorrentes WHEN-ELSE e W
 
 • Aplicativo Quartus 
 
-• Exemplo de Adder de 4 bits![](./Imagens/Exemplos.png)
+• Exemplo de Adder de 4 bits![](./imagens/Exemplos.PNG)
 
-• Exemplo de Adder Completo![](./Imagens/Exemplos2.png)
+• Exemplo de Adder Completo![](./imagens/Exemplos2.PNG)
 
 ### Resultados
 
@@ -42,8 +42,8 @@ saída s, e o comando concorrente WHEN-ELSE para a saída co.
 
 ### Imagens após funcionamento do Kit
 
-![](./Imagens/LogAdder.png)
-![](./Imagens/RTLAdder.png)
+![](./imagens/LogAdder.PNG)
+![](./imagens/RTLAdder.PNG)
 
 
 

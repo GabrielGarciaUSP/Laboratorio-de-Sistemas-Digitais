@@ -39,9 +39,9 @@ Característica, com reset assíncrono, utilizando a linguagem de descrição de
 
 • Aplicativo Quartus 
 
-• Equações utilizadas: ![](./Imagens/Equacoes.png)
+• Equações utilizadas: ![](./imagens/Equacoes.PNG)
 
-• Tipos de FF: ![](./Imagens/TiposFF.png)
+• Tipos de FF: ![](./imagens/TiposFF.PNG)
 
 ### Resultados
 
@@ -58,8 +58,8 @@ Tipo-D e Tipo-T aos LEDR(2 downto 0), respectivamente.
 
 ### Imagens após funcionamento do Kit
 
-![](./Imagens/LogFF.png)
-![](./Imagens/RTLFF.png)
+![](./imagens/LogFF.PNG)
+![](./imagens/RTLFF.PNG)
 
 
 
