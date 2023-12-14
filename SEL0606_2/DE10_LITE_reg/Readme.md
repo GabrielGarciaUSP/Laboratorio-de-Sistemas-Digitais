@@ -1,6 +1,6 @@
 # Projeto FF
 
-Bem-vindo ao Projeto FF! Este projeto de laboratório tem por objetivo Implementar Registradores de N bits utilizando
+Bem-vindo ao Projeto Reg! Este projeto de laboratório tem por objetivo Implementar Registradores de N bits utilizando
  linguagem de descrição de hardware VHDL em projeto parametrizável. Sob o ponto de vista de Sistema Digitais, os 
 Registradores são circuitos sequenciais formados por Flip-Flops (FF) que, sob o ponto de vista de Organização de 
 Computadores, compõem o nível mais alto da hierarquia de memória. São memórias voláteis (ou seja, seus dados são 
