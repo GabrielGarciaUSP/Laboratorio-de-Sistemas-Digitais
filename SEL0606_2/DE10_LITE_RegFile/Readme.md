@@ -49,9 +49,9 @@ utilizado como todos os registradores independentes na organização da arquitet
 
 • Aplicativo Quartus 
 
-• Exemplo de Processador RISC-V multiciclo![](./imagens/Exemplos.png)
+• Exemplo de Processador RISC-V multiciclo ![](./imagens/Exemplos.png)
 
-• Configuração de um banco de 8 registradores![](./imagens/Exemplos2.png)
+• Configuração de um banco de 8 registradores ![](./imagens/Exemplos2.png)
 
 ### Resultados
 
